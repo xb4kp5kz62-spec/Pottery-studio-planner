@@ -5,7 +5,6 @@ import { InfoTabs } from './components/InfoTabs';
 import { SupplyList } from './components/SupplyList';
 import { MaintenanceList } from './components/MaintenanceList';
 import { FiringLog } from './components/FiringLog';
-import { Ruler, Info, ShoppingCart, Wrench, Flame, GripVertical } from 'lucide-react';
 import { Ruler, Info, ShoppingCart, Wrench, Flame, GripVertical, RotateCcw, Save } from 'lucide-react';
 
 export interface Equipment {
